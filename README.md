@@ -19,7 +19,7 @@
 
  💬 Ask me about **Python, SQL, ML, AI**
 
-⚡ Fun fact **I was a Chef**
+⚡ Fun fact **I used to be a Chef and can make delicious food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
