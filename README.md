@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oskar-wolf-981594139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oskar-wolf-981594139/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/oskar-wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oskar-wolf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4150690/oskar-wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4150690/oskar-wolf" height="30" width="40" /></a>
 <a href="https://kaggle.com/oskarwolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oskarwolf" height="30" width="40" /></a>
 </p>
 
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oskar-wolf&show_icons=true&locale=en" alt="oskar-wolf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oskar-wolf&" alt="oskar-wolf" /></p>
+
